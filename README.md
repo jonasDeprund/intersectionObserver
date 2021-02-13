@@ -1,1 +1,1 @@
-# intersectionObserver
+# intersectionObserverKit
